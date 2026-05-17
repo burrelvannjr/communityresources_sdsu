@@ -11,10 +11,10 @@
 |---|---|
 | **Instructor** | Burrel Vann Jr |
 | **Email** | bvannjr@sdsu.edu |
-| **Room** | GC-2519 |
-| **Day & Time** | Mondays, 4:00 PM – 6:40 PM |
-| **Schedule #** | 8581 |
-| **Office Hours** | Tuesdays, 12:00 PM – 1:00 PM (Zoom, by appointment) |
+| **Room** | TBD |
+| **Day & Time** | Day, Start Time – End Time |
+| **Schedule #** | Schedule Number |
+| **Office Hours** | Day, Start Time – End Time (Zoom, by appointment) |
 
 
 
